@@ -1,0 +1,45 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(58, 58, 58);
+}
+.container {
+  max-width: 1000px;
+  margin: 100px auto 0px auto;
+  padding: 20px 20px;
+  background-color: white;
+}
+.container-content {
+  max-width: 100%;
+  display: inline-block;
+  margin-left: 25px;
+}
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.product {
+  display: inline-block;
+  margin-right: 9px;
+  max-width: 300px;
+}
+img {
+  max-width: 300px;
+  min-height: 225px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+span {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+}
