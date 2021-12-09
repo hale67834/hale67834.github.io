@@ -1,0 +1,34 @@
+.khoi1{
+    height: 200px;
+    background-color: rgba(29, 155, 92, 0.788);
+    width: 200px;
+    
+}
+.khoi2{
+    height: 200px;
+    background-color: rgb(204, 21, 15);
+    width: 200px;
+}
+.khoi3{
+    height: 200px;
+    background-color: rgb(187, 218, 11);
+    width: 200px;
+}
+.khoi4{
+    height: 200px;
+    background-color:rgba(29, 155, 92, 0.788) ;
+    width: 200px;
+}
+.khoi5{
+    height: 200px;
+    background-color: rgb(235, 12, 12);
+    width: 200px;
+}
+
+.khoi6{
+    height: 200px; 
+    background-color: rgb(235, 213, 12);
+}
+
+.box{display: flex;
+}
