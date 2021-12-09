@@ -1,0 +1,167 @@
+body {
+  margin: 0;
+}
+
+.khoitokhonglo1 {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  color: mintcream;
+}
+
+.khoi1 {
+  height: 400px;
+  width: 100%;
+  background-color: brown;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.khoi123 {
+  width: 30%;
+}
+
+.khoi2 {
+  height: 200px;
+  background-color: darkgreen;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoi3 {
+  height: 200px;
+  background-color: mediumblue;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
+
+.khoitokhonglo2 {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  color: mistyrose;
+}
+
+.khoi1 {
+  height: 400px;
+  width: 100%;
+  background-color: brown;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.khoi1234 {
+  width: 30%;
+  padding-left: 10px;
+}
+
+.khoi2 {
+  height: 200px;
+  background-color: darkgreen;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoi3 {
+  height: 200px;
+  background-color: mediumblue;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
+
+.khoitokhonglo3 {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  color: mintcream;
+}
+
+.khoi4 {
+  height: 400px;
+  width: 100%;
+  background-color: brown;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoi5 {
+  height: 400px;
+  width: 100%;
+  background-color: darkgreen;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoi6 {
+  height: 400px;
+  width: 100%;
+  background-color: mediumblue;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
+.khoitokhonglo4 {
+  width: 100%;
+  display: flex;
+  margin: 40px 0 auto;
+  color: mintcream;
+}
+.khoithu1234 {
+  width: 5%;
+  padding-left: 10px;
+}
+.khoithu1 {
+  height: 400px;
+  width: 100%;
+  background-color: brown;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoithu2 {
+  height: 400px;
+  width: 100%;
+  background-color: darkgreen;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+}
+.khoithu3 {
+  height: 400px;
+  width: 100%;
+  background-color: mediumblue;
+  color: mintcream;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
