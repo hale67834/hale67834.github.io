@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+}
+span {
+  color: white;
+}
+.khoitokhonglo1 {
+  display: flex;
+  margin: 0 auto;
+}
+
+.khoi1 {
+  height: 400px;
+  width: 50%;
+  background-color: brown;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.khoi123 {
+  width: 50%;
+}
+
+.khoi2 {
+  height: 200px;
+  background-color: darkgreen;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoi3 {
+  height: 200px;
+  background-color: mediumblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
+
+.khoitokhonglo2 {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  color: mistyrose;
+}
+
+.khoi1 {
+  height: 400px;
+  width: 50%;
+  background-color: brown;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.khoi1234 {
+  width: 50%;
+  padding-left: 10px;
+}
+
+.khoi2 {
+  height: 200px;
+  background-color: darkgreen;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoi3 {
+  height: 200px;
+  background-color: mediumblue;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
+
+.khoitokhonglo3 {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+}
+
+.khoi4 {
+  height: 400px;
+  width: 100%;
+  background-color: brown;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoi5 {
+  height: 400px;
+  width: 100%;
+  background-color: darkgreen;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoi6 {
+  height: 400px;
+  width: 100%;
+  background-color: mediumblue;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
+.khoitokhonglo4 {
+  width: 100%;
+  display: flex;
+  margin: 40px 0 auto;
+}
+
+.khoithu1 {
+  height: 400px;
+  width: 100%;
+  background-color: brown;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.khoithu2 {
+  height: 400px;
+  width: 100%;
+  background-color: darkgreen;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 15px 0;
+}
+.khoithu3 {
+  height: 400px;
+  width: 100%;
+  background-color: mediumblue;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
