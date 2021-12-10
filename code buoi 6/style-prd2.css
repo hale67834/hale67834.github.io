@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 13, 13);
+}
+img {
+  max-width: 100%;
+}
+.container-content {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 15px;
+}
+.item {
+  width: 33.33333%;
+  width: calc(33.33333% - 30px);
+  margin: 15px;
+}
+.produc-name{
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
